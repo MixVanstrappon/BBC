@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title('Stramlit Project')
+st.title('Streamlit Project')
 st.write('Hello Streamlit')
