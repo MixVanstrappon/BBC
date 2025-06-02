@@ -53,6 +53,6 @@ st.markdown("---")
 
 st.markdown("""
     <div style='text-align: center; font-size: 14px; color: #888;'>
-        Made with ❤️ by YourName | MBTI & Career Guidance
+        Made with ❤️ by MixVanstrappon | MBTI & Career Guidance
     </div>
 """, unsafe_allow_html=True)
